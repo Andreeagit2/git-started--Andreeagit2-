@@ -1,2 +1,3 @@
 *.tmp
 /temp
+#ignore my temp folder
